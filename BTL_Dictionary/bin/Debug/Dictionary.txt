@@ -1,0 +1,22 @@
+white:màu trắng
+yellow:màu vàng
+pink:màu hồng
+orange:màu da cam
+brown:màu nâu
+blue:màu xanh da trời
+purple:màu tím
+grey:màu xám
+black:màu đen
+red:màu đỏ
+green:màu xanh lá cây
+weather:thời tiết
+cloud:mây
+fog:sương mù
+wind:gió
+rain:mưa
+sunshine:ánh nắng
+hail:mưa đá
+sleet:mưa tuyết
+shower:mưa rào nhẹ
+strong winds:cơn gió mạnh
+thunder:sấm
